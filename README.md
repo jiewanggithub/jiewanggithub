@@ -90,8 +90,16 @@ Built an automated pipeline that converts human data-quality heuristics into mea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jiewanggithub&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiewanggithub&layout=compact&hide_border=true" />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=jiewanggithub&amp;show_icons=true&amp;hide_border=true"
+    alt="Jie Wang's GitHub stats"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiewanggithub&amp;layout=compact&amp;hide_border=true"
+    alt="Jie Wang's most used languages"
+  />
 </p>
 
 ---
@@ -99,7 +107,10 @@ Built an automated pipeline that converts human data-quality heuristics into mea
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jiewanggithub&hide_border=true" />
+  <img
+    src="https://streak-stats.demolab.com?user=jiewanggithub&amp;hide_border=true"
+    alt="Jie Wang's GitHub streak"
+  />
 </p>
 
 ---
@@ -107,7 +118,10 @@ Built an automated pipeline that converts human data-quality heuristics into mea
 ## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jiewanggithub/jiewanggithub/output/github-contribution-grid-snake.svg" />
+  <img
+    src="https://raw.githubusercontent.com/jiewanggithub/jiewanggithub/output/github-contribution-grid-snake.svg"
+    alt="Jie Wang's contribution graph"
+  />
 </p>
 
 ---

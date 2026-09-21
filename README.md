@@ -86,28 +86,49 @@ Built an automated pipeline that converts human data-quality heuristics into mea
 - Improved downstream computer vision model performance
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="170"
+    src="https://raw.githubusercontent.com/jiewanggithub/jiewanggithub/main/profile-summary-card-output/github_dark/3-stats.svg"
+    alt="Jie Wang's GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://raw.githubusercontent.com/jiewanggithub/jiewanggithub/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"
+    alt="Jie Wang's most used languages"
+  />
+</p>
+
+---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=jiewanggithub&amp;hide_border=true"
+    src="https://streak-stats.demolab.com?user=jiewanggithub&hide_border=true"
     alt="Jie Wang's GitHub streak"
   />
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
-
----
+## 🐍 Contribution Graph
 
 <p align="center">
-  <i>Building scalable systems and intelligent agents.</i>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/jiewanggithub/jiewanggithub/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/jiewanggithub/jiewanggithub/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/jiewanggithub/jiewanggithub/output/github-contribution-grid-snake.svg"
+      alt="Jie Wang's contribution snake"
+    />
+  </picture>
 </p>

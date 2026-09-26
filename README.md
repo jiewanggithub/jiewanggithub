@@ -68,46 +68,6 @@
 ![Cloud SQL](https://img.shields.io/badge/Cloud_SQL-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
 ---
-
-## 🚀 Featured Projects
-
-### 🎙 Event-Driven AI Backend
-
-**FastAPI · GCP · Pub/Sub · Cloud SQL · Whisper · LLM**
-
-Built an event-driven backend for asynchronous speech transcription and LLM-based consultation summarization.
-
-- Decoupled long-running AI workloads from low-latency APIs using **Google Cloud Pub/Sub**
-- Implemented **idempotent consumers, retries, exponential backoff, and dead-letter handling**
-- Designed job-state tracking and fault-tolerant asynchronous processing
-- Built REST APIs using **FastAPI**
-
----
-
-### 🤖 Agentic AI Systems
-
-**LangGraph · OpenAI · Tool Calling · Memory**
-
-Building AI agents capable of multi-step reasoning, tool usage, memory, routing, and human-in-the-loop workflows.
-
-- Designed graph-based agent workflows with **LangGraph**
-- Implemented conditional routing and tool execution
-- Explored memory, interrupts, and agent observability
-
----
-
-### 🧠 3D Data Quality Pipeline
-
-**Python · Machine Learning · Computer Vision · 3D Geometry**
-
-Built an automated pipeline that converts human data-quality heuristics into measurable features for large-scale 3D datasets.
-
-- Designed features including **3D IoU and normalized point density**
-- Built a lightweight classifier for `keep / reject / human review`
-- Used conservative confidence thresholds for safe automation
-- Improved downstream computer vision model performance
-
----
 ## 📊 GitHub Stats
 
 <p align="center">
